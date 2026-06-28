@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/journal-entries
+Content-Type: application/json
+
+{
+  "patientId": "7875551234",
+  "entryText": "today I feel really happy and grateful for everything in my life"
+}
